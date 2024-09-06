@@ -4,8 +4,8 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 
 * [Stage 0](#stage0): Understand the Problem Space
 * [Stage 1](#stage1): Incubate Proposals
-* [Stage 2](#stage2): Specifcy a Preferred Proposal
-* [Stage 3](#stage3): Gather more Implementation Experience
+* [Stage 2](#stage2): Specify a Preferred Proposal
+* [Stage 3](#stage3): Increase Deployment Confidence
 * [Stage 4](#stage4): Publish a Proposed Recommendation
 
 # Stage 0
@@ -30,12 +30,12 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
     * Implementation Experience (e.g. a prototype, dev trials, origin trials, etc) 
     * Evidence of developer demand
   * Purpose
-    * Understand the solutions
-      * Incubate and make a proposal
-      * Explore alternatives
-      * Gather implementation experience
-      * Understand tradeoffs
-      * Gather evidence of demand
+    * Understand the Solution Space
+      1. Explore alternatives
+      2. Understand tradeoffs
+      3. Gather implementation experience
+      4. Incubate and make a proposal
+      5. Gather evidence of demand and product market fit
 # Stage 2
   * Entrance criteria
     * Products of the prior stage and
@@ -46,7 +46,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
     * The feature repo gets transferred to the Working Group 
   * Exit criteria
     * Proposal fully merged into the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/)
-    * An [Editor’s draft](https://www.w3.org/policies/process/#editors-draft) that addresses all issues that were identified at the entrance
+    * The [Editor’s draft](https://www.w3.org/policies/process/#editors-draft) addresses all issues that were identified at the entrance
     * Web Platform Tests
     * Further implementation experience
    * Purpose
