@@ -2,13 +2,16 @@
 
 This is a proposal to break proposals into 5 stages of maturity, with clear guidelines and requirements to advance them:
 
-* [Stage 0](#stage0): Understand the problem
-* [Stage 1](#stage1): Understand the solutions
-* [Stage 2](#stage2): Formalize a specific proposal
-* [Stage 3](#stage3): Gather more implementation experience
-* [Stage 4](#stage4): Publish a proposed recommendation
+* [Stage 0](#stage0): Understand the Problem Space
+* [Stage 1](#stage1): Incubate Proposals
+* [Stage 2](#stage2): Specify a Preferred Proposal
+* [Stage 3](#stage3): Increase Deployment Confidence
+* [Stage 4](#stage4): Publish a Proposed Recommendation
 
 # Stage 0
+
+The purpose of Stage 0 proposals is to allow anyone to raise and explore the Problem Space without asking for permission.  
+
   * Entrance criteria
     * Nothing: no permission needed from anyone. 
   * Entrance artifact
@@ -17,42 +20,43 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
     * Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
     * A problem statement 
 # Stage 1
+
+The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and product market fit and finally identifying the best out of the many alternatives.
+
   * Entrance criteria
     * Products of the prior stage and
     * The CG consensus that the problem is worth spending the CG’s time working on
   * Entrance artifact
-    * A FedID repo gets created in the CG for the champions to develop the feature (e.g. [example](https://github.com/fedidcg/CrossSiteCookieAccessCredential))
+    * A FedID repo gets created in the CG for the champions to develop the feature (e.g. [example](https://github.com/fedidcg/CrossSiteCookieAccessCredential)).
   * Exit criteria
     * An [explainer](https://tag.w3.org/explainers/)
     * A specific proposal under consideration (with varying degrees of specificity, e.g. from code samples to a spec PR)
-    * Alternatives considered Issues filed by FedID CG members in the repo
-    * Implementation experience (e.g. a prototype, dev trials, origin trials, etc) 
+    * Alternatives considered
+    * Known Issues filed
+    * Implementation Experience (e.g. a prototype, dev trials, origin trials, etc) 
     * Evidence of developer demand
-  * Purpose
-    * Understand the solutions
-      * Incubate and make a proposal
-      * Explore alternatives
-      * Gather implementation experience
-      * Understand tradeoffs
-      * Gather evidence of demand
+
 # Stage 2
-   * Purpose
-     * Refine the proposal to produce a [Working Draft](https://www.w3.org/policies/process/\#RecsWD)
-     * Deal with corner cases <br>* Specify details Integrate proposal with other parts
-     * Resolve concerns
   * Entrance criteria
-    * Products of the prior stage and WG consensus to adopt the solution as the basis for their work
-    * The WG identifies a list of (seemingly resolvable) issues that have to be addressed before Stage 3
+    * Products of the prior stage and
+    * WG consensus to adopt the solution as the basis for their work.
+    * The WG identifies a list of (seemingly resolvable) issues that have to be addressed before Stage 3.
   * Entrance artifact
     * The spec PR gets merged into the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/)
     * The feature repo gets transferred to the Working Group 
   * Exit criteria
-    * An [Editor’s draft](https://www.w3.org/policies/process/#editors-draft) that addresses all issues that were identified at the entrance
+    * Proposal fully merged into the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/)
+    * The [Editor’s draft](https://www.w3.org/policies/process/#editors-draft) addresses all issues that were identified at the entrance
     * Web Platform Tests
     * Further implementation experience
+   * Purpose
+     * Refine the proposal to produce a [Working Draft](https://www.w3.org/policies/process/#RecsWD)
+     * Deal with corner cases
+     * Specify details
+     * Integrate proposal with other parts
+     * Reeconcile proposal with other proposals
+     * Resolve concerns
 # Stage 3
-  * Purpose
-    * Gather two independent implementation experience to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   * Entrance criteria
     * Products of the prior stage and
     * WG consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised
@@ -61,6 +65,9 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
   * Exit criteria
     * Two independent and interoperable implementations
     * Significant deployment experience
+ * Purpose
+    * Gather two independent implementation experience to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
+  
 # Stage 4
   * Purpose
     * Inclusion as a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C)
