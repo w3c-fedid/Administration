@@ -9,6 +9,9 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 4](#stage4): Publish a Proposed Recommendation
 
 # Stage 0
+
+The purpose of Stage 0 proposals is to allow anyone to raise and explore the Problem Space without asking for permission.  
+
   * Entrance criteria
     * Nothing: no permission needed from anyone. 
   * Entrance artifact
@@ -17,6 +20,9 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
     * Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
     * A problem statement 
 # Stage 1
+
+The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and product market fit and finally identifying the best out of the many alternatives.
+
   * Entrance criteria
     * Products of the prior stage and
     * The CG consensus that the problem is worth spending the CG’s time working on
@@ -29,13 +35,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
     * Known Issues filed
     * Implementation Experience (e.g. a prototype, dev trials, origin trials, etc) 
     * Evidence of developer demand
-  * Purpose
-    * Understand the Solution Space
-      1. Explore alternatives
-      2. Understand tradeoffs
-      3. Gather implementation experience
-      4. Incubate and make a proposal
-      5. Gather evidence of demand and product market fit
+
 # Stage 2
   * Entrance criteria
     * Products of the prior stage and
