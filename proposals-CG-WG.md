@@ -21,7 +21,7 @@ The purpose of Stage 0 proposals is to allow anyone to raise and explore the Pro
     * A problem statement 
 # Stage 1
 
-The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and product market fit and finally identifying the best out of the many alternatives.
+The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and fitness for purpose and finally identifying the best out of the many alternatives.
 
   * Entrance criteria
     * Products of the prior stage and
