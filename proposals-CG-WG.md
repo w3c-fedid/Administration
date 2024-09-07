@@ -2,11 +2,11 @@
 
 This is a proposal to break proposals into 5 stages of maturity, with clear guidelines and requirements to advance them:
 
-* [Stage 0](#stage0): Understand the Problem Space
-* [Stage 1](#stage1): Incubate Proposals
-* [Stage 2](#stage2): Specify a Preferred Proposal
-* [Stage 3](#stage3): Increase Deployment Confidence
-* [Stage 4](#stage4): Publish a Proposed Recommendation
+* [Stage 0](#stage-0): Understand the Problem Space
+* [Stage 1](#stage-1): Incubate Proposals
+* [Stage 2](#stage-2): Specify a Preferred Proposal
+* [Stage 3](#stage-3): Increase Deployment Confidence
+* [Stage 4](#stage-4): Publish a Proposed Recommendation
 
 # Stage 0
 
