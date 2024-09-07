@@ -33,10 +33,13 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * A specific proposal under consideration (with varying degrees of specificity, e.g. from code samples to a spec PR)
     * Alternatives considered
     * Known Issues filed
-    * Implementation Experience (e.g. a prototype, dev trials, origin trials, etc) 
-    * Evidence of developer demand
+    * Browser and developer implementation experience (e.g. a prototype, dev trials, origin trials, etc) 
+    * Evidence of developer demand and product market fit
 
 # Stage 2
+
+The purpose of Stage 2 Proposals is to formally specify the best (and seemingly workable) alternative that was identified in the prior step: handle corner cases, integrate with other parts, reconcile with other proposals and resolve the concerns identified at the entrance. The Proposal enters Stage 2 with a list of blocking issues to advance to the next stage and exits with all of the issues resolved.
+
   * Entrance criteria
     * Products of the prior stage and
     * WG consensus to adopt the solution as the basis for their work.
@@ -49,14 +52,11 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * The [Editor’s draft](https://www.w3.org/policies/process/#editors-draft) addresses all issues that were identified at the entrance
     * Web Platform Tests
     * Further implementation experience
-   * Purpose
-     * Refine the proposal to produce a [Working Draft](https://www.w3.org/policies/process/#RecsWD)
-     * Deal with corner cases
-     * Specify details
-     * Integrate proposal with other parts
-     * Reeconcile proposal with other proposals
-     * Resolve concerns
+    
 # Stage 3
+
+The purpose of Stage 3 Proposals is to increase the implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
+
   * Entrance criteria
     * Products of the prior stage and
     * WG consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised
@@ -65,12 +65,11 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
   * Exit criteria
     * Two independent and interoperable implementations
     * Significant deployment experience
- * Purpose
-    * Gather two independent implementation experience to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   
 # Stage 4
-  * Purpose
-    * Inclusion as a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C)
+
+The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C).
+
   * Entrance criteria
     * Products of the prior stage and
     * WG consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete
