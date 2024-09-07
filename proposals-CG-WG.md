@@ -34,7 +34,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * Alternatives considered
     * Known Issues filed
     * Browser and developer implementation experience (e.g. a prototype, dev trials, origin trials, etc) 
-    * Evidence of developer demand and product market fit
+    * Evidence of developer demand and fitness for purpose
 
 # Stage 2
 
