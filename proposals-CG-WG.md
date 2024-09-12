@@ -1,12 +1,17 @@
-# FedID CG/WG Process Mechanics
+# CG/WG Proposal Stages
+
+Author: @samuelgoto
+Created: 08/11/2024
+Last update: 09/11/2024
+Status: under review
 
 This is a proposal to break proposals into 5 stages of maturity, with clear guidelines and requirements to advance them:
 
-* [Stage 0](#stage0): Exploration of the Problem Space
-* [Stage 1](#stage1): Incubation of competing Alternatives
-* [Stage 2](#stage2): Formalization a preferred Proposal
-* [Stage 3](#stage3): (multiple) Implementation of the preferred Proposal
-* [Stage 4](#stage4): Publication of a Proposed Recommendation
+* [Stage 0](#stage0): **Exploration** of the Problem Space
+* [Stage 1](#stage1): **Incubation** of competing Alternatives
+* [Stage 2](#stage2): **Formalization** a preferred Proposal
+* [Stage 3](#stage3): **Independent Implementations** of the preferred Proposal
+* [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
 # Stage 0: Exploration
 
@@ -14,7 +19,7 @@ The purpose of Stage 0 proposals is to allow anyone to raise and explore the Pro
 
   * What's needed from individuals?
     * Typically, a written issue, a personal repo, a blog post, a tweet, etc. 
-  * What's asked of the community group?
+  * What's asked of the **Community Group**?
     * Nothing: no permission needed from anyone.
 
 # Stage 1: Incubation
@@ -44,7 +49,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * The Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
     * The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
   
-# Stage 3: Implementation
+# Stage 3: Independent Implementations
 
  The purpose of Stage 3 Proposals is to increase the implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
