@@ -31,7 +31,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * A good understanding of the Problem Space
     * Optionally, Alternatives under consideration
   * What's asked of the **Community Group**?
-    * The Communit Group consensus that the problem is worth spending the Community Group’s time working on
+    * The Community Group consensus that the problem is worth spending the Community Group’s time working on
   * What happens if accepted?
     * Optionally, a repo gets created for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/CrossSiteCookieAccessCredential)). Small features can also continue as issues.
 
