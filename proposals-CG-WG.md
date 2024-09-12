@@ -65,9 +65,9 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * Two independent and interoperable implementations
     * Significant deployment experience
   * What's asked of the **Working Group**?
-    * The Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete
+    * The Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and can be published as a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   * What happens if accepted?
-    * The [Working Draft](https://www.w3.org/policies/process/#RecsWD) gets published as [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR) and gets sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
+    * The [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR) gets sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
 
 # Prior Art
 
