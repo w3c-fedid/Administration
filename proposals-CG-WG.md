@@ -46,7 +46,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * Browser and developer implementation experience (e.g. a prototype, dev trials, origin trials, etc) 
     * Evidence of developer demand and fitness for purpose
   * What's asked of the **Working Group**?
-    * The Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
+    * Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
     * The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
   
 # Stage 3: Independent Implementations
