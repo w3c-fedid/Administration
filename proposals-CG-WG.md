@@ -51,7 +51,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
   
 # Stage 3: Independent Implementations
 
- The purpose of Stage 3 Proposals is to increase the implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
+ The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
   * What's needed from champions?
     * Proposal fully merged into the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/)
