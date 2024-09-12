@@ -24,7 +24,7 @@ The purpose of Stage 0 proposals is to allow anyone to raise and explore the Pro
 
 # Stage 1: Incubation
 
-The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and fitness for purpose and finally identifying the best out of the many alternatives.
+The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and fitness for purpose, and finally, identifying the best out of the many alternatives.
 
   * What's needed from individuals?
     * Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
