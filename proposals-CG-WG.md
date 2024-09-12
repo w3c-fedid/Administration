@@ -33,7 +33,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
   * What's asked of the **Community Group**?
     * The Community Group consensus that the problem is worth spending the Community Group’s time working on
   * What happens if accepted?
-    * Optionally, a repo gets created for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/CrossSiteCookieAccessCredential)). Small features can also continue as issues.
+    * Small features will incubate in issues. If and when the champion is ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/CrossSiteCookieAccessCredential)). 
 
 # Stage 2: Formalization
 
