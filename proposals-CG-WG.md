@@ -44,7 +44,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
   * What's needed from champions?
     * An [explainer](https://tag.w3.org/explainers/)
     * Alternatives and trade-offs considered
-    * A specific proposal with varying degrees of specificity required for the Working Group review, e.g., code samples, examples, or a spec PRs (if the formalism is needed to understand the proposal)
+    * A specific preferred proposal out of the alternatives considered, e.g., code samples, examples, or a spec PRs (if the formalism is needed to understand the proposal)
     * Browser and developer implementation experience (e.g., a prototype, dev trials, origin trials, etc) 
     * Evidence of developer demand and fitness for purpose
   * What's asked of the **Working Group**?
