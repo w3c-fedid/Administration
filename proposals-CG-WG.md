@@ -13,6 +13,8 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 3](#stage3): **Independent Implementations** of the preferred Proposal
 * [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
+These stages support the W3C process. If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedent.
+
 # Stage 0: Exploration
 
 The purpose of Stage 0 proposals is to allow anyone to raise and explore the Problem Space without asking for permission. 
