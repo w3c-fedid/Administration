@@ -29,7 +29,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
   * What's needed from individuals?
     * Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
     * A good understanding of the Problem Space
-    * Alternatives under consideration
+    * Optionally, Alternatives under consideration
   * What's asked of the **Community Group**?
     * The Communit Group consensus that the problem is worth spending the Community Group’s time working on
   * What happens if accepted?
