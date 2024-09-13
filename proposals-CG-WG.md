@@ -69,8 +69,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
  The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C).
  
   * What's needed from champions?
-    * [ ] Two independent and interoperable implementations
-    * [ ] Significant deployment experience
+    * [ ] Sufficient [implementation experience](https://www.w3.org/policies/process/#implementation-experience)
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and can be published as a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   * What happens if accepted?
