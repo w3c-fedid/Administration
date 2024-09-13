@@ -34,8 +34,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * [ ] Optionally, Alternatives under consideration
   * What's asked of the **Community Group**?
     * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on
-  * What happens if accepted?
-    * [ ] Small features will incubate in issues. If and when the champion is ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
+    * [ ] Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
 
 # Stage 2: Formalization
 
@@ -49,7 +48,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Evidence of developer demand and fitness for purpose
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
-    * [ ] The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
+    * [ ] The Working Group identification of the list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
   
 # Stage 3: Independent Implementations
 
@@ -60,9 +59,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Web Platform Tests
     * [ ] Further implementation experience
   * What's asked of the **Working Group**? 
-    * [ ] Working Group consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised at [Stage 2](#stage-2)
-  * What happens if accepted?
-    * [ ] The [Editor’s Draft](https://w3c-fedid.github.io/FedCM/) gets published as the Working Group's [Working Draft](https://www.w3.org/TR/fedcm/)
+    * [ ] Working Group consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised at [Stage 2](#stage-2) and to be published as the Working Group's [Working Draft](https://www.w3.org/TR/fedcm/)
   
 # Stage 4: Publication
 
@@ -72,9 +69,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Two independent and interoperable implementations
     * [ ] Significant deployment experience
   * What's asked of the **Working Group**?
-    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and can be published as a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
-  * What happens if accepted?
-    * [ ] The [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR) gets sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
+    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and to publish it as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR), to be sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
 
 
 # Prior Art
