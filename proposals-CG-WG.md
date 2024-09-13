@@ -48,21 +48,22 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Browser and developer implementation experience (e.g., a prototype, dev trials, origin trials, etc) 
     * [ ] Evidence of developer demand and fitness for purpose
   * What's asked of the **Working Group**?
-    * [ ] Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
+    * [ ] Working Group consensus to adopt the proposal as the basis for their work as a [Working Draft](https://www.w3.org/policies/process/#RecsWD).
     * [ ] The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
+    * [ ] An [Editor's Draft](https://www.w3.org/policies/process/#editors-draft) can be used to get PRs merged between Working Draft revisions.
   
 # Stage 3: Independent Implementations
 
  The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
   * What's needed from champions?
-    * [ ] Proposal fully merged into the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/)
+    * [ ] Proposal fully merged into the [Working Draft](https://www.w3.org/policies/process/#RecsWD)
     * [ ] Web Platform Tests
     * [ ] Further implementation experience
   * What's asked of the **Working Group**? 
-    * [ ] Working Group consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised at [Stage 2](#stage-2)
+    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) sufficiently resolves all of the issues raised at [Stage 2](#stage-2)
   * What happens if accepted?
-    * [ ] The [Editor’s Draft](https://w3c-fedid.github.io/FedCM/) gets published as the Working Group's [Working Draft](https://www.w3.org/TR/fedcm/)
+    * [ ] The [Working Draft](https://www.w3.org/policies/process/#RecsWD) gets published as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   
 # Stage 4: Publication
 
@@ -72,9 +73,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Two independent and interoperable implementations
     * [ ] Significant deployment experience
   * What's asked of the **Working Group**?
-    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and can be published as a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
-  * What happens if accepted?
-    * [ ] The [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR) gets sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
+    * [ ] Working Group consensus that the [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)'s implementation experience is complete and can be published as a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR)
 
 
 # Prior Art
