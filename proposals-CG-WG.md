@@ -59,7 +59,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Web Platform Tests
     * [ ] Further implementation experience
   * What's asked of the **Working Group**? 
-    * [ ] Working Group consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised at [Stage 2](#stage-2) and to be published as the Working Group's [Working Draft](https://www.w3.org/TR/fedcm/)
+    * [ ] Working Group consensus that the [Editor’s Draft](https://www.w3.org/policies/process/#editors-draft) sufficiently resolves all of the issues raised at [Stage 2](#stage-2) and is to be published as the Working Group's [Working Draft](https://www.w3.org/TR/fedcm/)
   
 # Stage 4: Publication
 
