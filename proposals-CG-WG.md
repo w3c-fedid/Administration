@@ -10,7 +10,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 0](#stage0): **Exploration** of the Problem Space
 * [Stage 1](#stage1): **Incubation** of competing Alternatives
 * [Stage 2](#stage2): **Formalization** a preferred Proposal
-* [Stage 3](#stage3): **Independent Implementations** of the preferred Proposal
+* [Stage 3](#stage3): **Implementation** of the preferred Proposal
 * [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
 These stages support the W3C process. If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedent.
@@ -50,7 +50,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
     * [ ] Working Group identification of the list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
   
-# Stage 3: Independent Implementations
+# Stage 3: Implementation
 
  The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
@@ -66,8 +66,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
  The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C).
  
   * What's needed from champions?
-    * [ ] Two independent and interoperable implementations
-    * [ ] Significant deployment experience
+    * [ ] Sufficient [implementation experience](https://www.w3.org/policies/process/#implementation-experience)
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as a whole is complete and to publish it as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR), to be sent forward for further consensus across all of W3C to move forward towards a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR) 
 
