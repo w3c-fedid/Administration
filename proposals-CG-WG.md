@@ -54,7 +54,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
 # Stage 3: Implementation
 
 > NOTE: We don't yet have enough experience as we get towards Stage 3 and 4, so they aren't fully baked yet. It is possible that these
-> will change a lot as we learn, including potentially entirely removing them in favor of the W3C WG operation processs.
+> will change a lot as we learn, including potentially entirely replacing them with references to the W3C Process.
 
 The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
