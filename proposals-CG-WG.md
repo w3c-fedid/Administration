@@ -10,7 +10,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 0](#stage0): **Exploration** of the Problem Space
 * [Stage 1](#stage1): **Incubation** of competing Alternatives
 * [Stage 2](#stage2): **Formalization** a preferred Proposal
-* [Stage 3](#stage3): **Independent Implementations** of the preferred Proposal
+* [Stage 3](#stage3): **Implementation** of the preferred Proposal
 * [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
 These stages support the W3C process. If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedent.
@@ -51,7 +51,7 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Working Group consensus to adopt the proposal as the basis for their work in the [Editor’s Draft](https://w3c-fedid.github.io/FedCM/).
     * [ ] The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
   
-# Stage 3: Independent Implementations
+# Stage 3: Implementation
 
  The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
