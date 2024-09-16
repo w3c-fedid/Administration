@@ -30,11 +30,11 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
 
   * What's needed from individuals?
     * [ ] Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
-    * [ ] A good understanding of the Problem Space
-    * [ ] Optionally, Alternatives under consideration
+    * [ ] An understanding of the Problem Space
+    * [ ] Optionally, alternatives under consideration
   * What's asked of the **Community Group**?
     * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on
-    * [ ] Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
+    * [ ] A home for incubating the proposal. Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
 
 # Stage 2: Formalization
 
@@ -43,17 +43,20 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
   * What's needed from champions?
     * [ ] An [explainer](https://tag.w3.org/explainers/)
     * [ ] Alternatives and trade-offs considered
-    * [ ] A specific preferred proposal out of the alternatives considered, e.g., code samples, examples, or a spec PRs (if the formalism is needed to understand the proposal)
+    * [ ] A specific preferred proposal, e.g., code samples, examples, or a spec PRs (if the formalism is needed to understand the proposal)
     * [ ] Browser and developer implementation experience (e.g., a prototype, dev trials, origin trials, etc) 
-    * [ ] Evidence of developer demand and fitness for purpose
+    * [ ] Confidence of developer demand and fitness for purpose (e.g. a developer that needs this proposal)
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus to adopt the proposal as the basis for their work as a [Working Draft](https://www.w3.org/policies/process/#RecsWD).
     * [ ] Working Group identification of the list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
-    * [ ] An [Editor's Draft](https://www.w3.org/policies/process/#editors-draft) can be used to get PRs merged between Working Draft revisions.
+    * [ ] An [Editor's Draft](https://www.w3.org/policies/process/#editors-draft) can be used to get PRs merged between [Working Draft](https://www.w3.org/policies/process/#RecsWD) revisions.
   
 # Stage 3: Implementation
 
- The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
+> NOTE: We don't yet have enough experience as we get towards Stage 3 and 4, so they aren't fully baked yet. It is possible that these
+> will change a lot as we learn, including potentially entirely replacing them with references to the W3C Process.
+
+The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
   * What's needed from champions?
     * [ ] Proposal fully merged into the [Working Draft](https://www.w3.org/policies/process/#RecsWD)
