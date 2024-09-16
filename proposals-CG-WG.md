@@ -10,7 +10,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 0](#stage0): **Exploration** of the Problem Space
 * [Stage 1](#stage1): **Incubation** of competing Alternatives
 * [Stage 2](#stage2): **Formalization** a preferred Proposal
-* [Stage 3](#stage3): **Independent Implementations** of the preferred Proposal
+* [Stage 3](#stage3): **Implementation** of the preferred Proposal
 * [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
 These stages support the W3C process. If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedent.
@@ -34,8 +34,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * [ ] Optionally, Alternatives under consideration
   * What's asked of the **Community Group**?
     * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on
-  * What happens if accepted?
-    * [ ] Small features will incubate in issues. If and when the champion is ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
+    * [ ] Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
 
 # Stage 2: Formalization
 
@@ -49,10 +48,10 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Evidence of developer demand and fitness for purpose
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus to adopt the proposal as the basis for their work as a [Working Draft](https://www.w3.org/policies/process/#RecsWD).
-    * [ ] The Working Group identifies a list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
+    * [ ] Working Group identification of the list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
     * [ ] An [Editor's Draft](https://www.w3.org/policies/process/#editors-draft) can be used to get PRs merged between Working Draft revisions.
   
-# Stage 3: Independent Implementations
+# Stage 3: Implementation
 
  The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
@@ -62,19 +61,17 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Further implementation experience
   * What's asked of the **Working Group**? 
     * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) sufficiently resolves all of the issues raised at [Stage 2](#stage-2)
-  * What happens if accepted?
-    * [ ] The [Working Draft](https://www.w3.org/policies/process/#RecsWD) gets published as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
+    * [ ] Working Group consensus to publish the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   
 # Stage 4: Publication
 
  The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C).
  
   * What's needed from champions?
-    * [ ] Two independent and interoperable implementations
-    * [ ] Significant deployment experience
+    * [ ] Sufficient [implementation experience](https://www.w3.org/policies/process/#implementation-experience)
   * What's asked of the **Working Group**?
-    * [ ] Working Group consensus that the [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)'s implementation experience is complete and can be published as a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR)
-
+    * [ ] Working Group consensus that the [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)'s implementation experience is complete and
+    * [ ] Working Group consensus to publish it as a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR)
 
 # Prior Art
 
