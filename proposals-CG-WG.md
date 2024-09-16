@@ -51,10 +51,10 @@ The purpose of Stage 2 Proposals is to formally specify the best (and seemingly 
     * [ ] Working Group identification of the list of (seemingly resolvable) issues that have to be addressed before [Stage 3](#stage-3).
     * [ ] An [Editor's Draft](https://www.w3.org/policies/process/#editors-draft) can be used to get PRs merged between [Working Draft](https://www.w3.org/policies/process/#RecsWD) revisions.
   
-# Stage 3: Implementation
-
 > NOTE: We don't yet have enough experience as we get towards Stage 3 and 4, so they aren't fully baked yet. It is possible that these
 > will change a lot as we learn, including potentially entirely removing them in favor of the W3C WG operation processs.
+
+# Stage 3: Implementation
 
 The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
  
