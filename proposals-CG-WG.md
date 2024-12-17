@@ -2,7 +2,7 @@
 
 Author: @samuelgoto
 Created: 2024-08-11
-Last update: 11/26/2024
+Last update: 2024-11-26
 Status: under review
 
 This is a proposal to break proposals into 5 stages of maturity, with clear guidelines and requirements to advance them:
