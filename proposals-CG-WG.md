@@ -59,7 +59,7 @@ The goal of Stage 2 is to refine the preferred solution into a detailed, cohesiv
 > NOTE: We don't yet have enough experience as we get towards Stage 3 and 4, so they aren't fully baked yet. It is possible that these
 > will change a lot as we learn, including potentially entirely replacing them with references to the W3C Process. 
 
-The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR). The spec should be considered finished, pending editorial nit review. However, since multiple implementations are expected in this stage, it is possible there will be further changes to normative content.
+The purpose of Stage 3 Proposals is to increase implementation and deployment confidence in order to produce a [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR). The spec should be considered finished, pending editorial nit review. However, since multiple implementations are expected to be produced during this stage, it is possible there will be further changes to normative content based on feedback from those implementors.
  
   * What's needed from champions?
     * [ ] Proposal fully merged into the [Working Draft](https://www.w3.org/policies/process/#RecsWD).
