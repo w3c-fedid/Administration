@@ -38,7 +38,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
 
 # Stage 2: Formalization
 
-The goal of Stage 2 is to refine the preferred solution into a detailed, cohesive proposal that addresses known issues and integrates feedback from stakeholders. The Proposal enters Stage 2 with a list of issues that block advancement to the next stage, and exits with all of the issues resolved.  This stage focuses on preparing the proposal for Working Group review and creating a complete, formal draft.
+The goal of Stage 2 is to refine the preferred solution into a detailed, cohesive proposal that addresses known issues and integrates feedback from stakeholders. The Proposal enters Stage 2 with a list of blocking issues to advance to the next stage and exits with all of the issues resolved.  This stage focuses on preparing the proposal for Working Group review and creating a complete, formal draft.
 
   * What's needed from champions?
     * [ ] An [explainer](https://tag.w3.org/explainers/).
