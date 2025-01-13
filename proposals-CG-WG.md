@@ -71,7 +71,7 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
   
 # Stage 4: Publication
 
- The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C). At this stage, the spec is merged and has finished editorial review. This editorial review could be lengthy, especially if the feature is large and/or the contributor is new to W3C process, but it will usually be short.
+ The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C). At this stage, the spec is merged and has finished editor review. This editor review could be lengthy, especially if the feature is large and/or the contributor is new to W3C process, but it will usually be short.
  
   * What's needed from champions?
     * [ ] Documented [implementation experience](https://www.w3.org/policies/process/#implementation-experience) across multiple environments.
