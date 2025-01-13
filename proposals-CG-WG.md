@@ -51,7 +51,7 @@ The goal of Stage 2 is to refine the preferred solution into a detailed, cohesiv
     * [ ] Working Group consensus to adopt the proposal as the basis for their work.
     * [ ] A clear list of blocking issues to be addressed before advancing to Stage 3.
     * [ ] A completed Working Draft for further iteration.
-    * [ ] Approval to transition the draft into a formal as the basis for their work as a [Working Draft](https://www.w3.org/policies/process/#RecsWD).
+    * [ ] Approval to dedicate the WG's time to Review spec PRs to merge the proposal into the [Working Draft](https://www.w3.org/policies/process/#RecsWD).
 
   
 # Stage 3: Implementation
