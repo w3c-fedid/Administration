@@ -1,7 +1,7 @@
 # CG/WG Proposal Stages
 
 Author: @samuelgoto
-Created: 2024-08-11
+Created: 08/11/2024
 Last update: 11/26/2024
 Status: under review
 
