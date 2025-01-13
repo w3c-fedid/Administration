@@ -13,7 +13,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 3](#stage3): **Implementation** of the preferred Proposal
 * [Stage 4](#stage4): **Publication** of a Proposed Recommendation
 
-These stages support the W3C process and align with the [TC39 process](https://tc39.es/process-document/) and the [WHATWG process](https://whatwg.org/stages). If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedent.
+These stages support the W3C process and align with the [TC39 process](https://tc39.es/process-document/) and the [WHATWG process](https://whatwg.org/stages). If there is ever any question between W3C process requirements and how the groups will progress their work, the W3C process has precedence.
 
 # Stage 0: Exploration
 
