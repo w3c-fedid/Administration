@@ -29,11 +29,11 @@ The purpose of Stage 0 proposals is to allow anyone to raise and explore the Pro
 The purpose of Stage 1 proposals is to explore the Solution Space and pick a preferred direction. This is where most of the work gets done because it involves exploring alternatives, understanding tradeoffs, gathering implementation experience, incubating alternatives, gathering evidence of demand and fitness for purpose, and finally, identifying the best out of the many alternatives.
 
   * What's needed from individuals?
-    * [ ] Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md).
-    * [ ] An understanding of the Problem Space.
-    * [ ] Optionally, alternatives under consideration.
+    * [ ] Identification of [champions](https://github.com/tc39/how-we-work/blob/main/champion.md)
+    * [ ] An understanding of the Problem Space
+    * [ ] Optionally, alternatives under consideration
   * What's asked of the **Community Group**?
-    * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on.
+    * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on
     * [ ] A home for incubating the proposal. Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
 
 # Stage 2: Formalization
@@ -66,8 +66,8 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
     * [ ] Web Platform Tests are available.
     * [ ] At least two independent implementers and no unresolved objections (where resolution may include an agreement not to address the issue).
   * What's asked of the **Working Group**? 
-    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) sufficiently resolves all of the issues raised at [Stage 2](#stage-2).
-    * [ ] Working Group consensus to publish the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
+    * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) sufficiently resolves all of the issues raised at [Stage 2](#stage-2)
+    * [ ] Working Group consensus to publish the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)
   
 # Stage 4: Publication
 
@@ -76,8 +76,8 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
   * What's needed from champions?
     * [ ] Documented [implementation experience](https://www.w3.org/policies/process/#implementation-experience) across multiple environments.
   * What's asked of the **Working Group**?
-    * [ ] Working Group consensus that the [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)'s implementation experience is complete.
-    * [ ] Working Group consensus to publish it as a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR).
+    * [ ] Working Group consensus that the [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR)'s implementation experience is complete
+    * [ ] Working Group consensus to publish it as a [Proposed Recommendation](https://www.w3.org/policies/process/#RecsPR)
 
 # Prior Art
 
@@ -85,17 +85,17 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
   * Proposals Repo: [https://github.com/tc39/proposals](https://github.com/tc39/proposals)  
   * Stages: [https://tc39.es/process-document/](https://tc39.es/process-document/)   
   * Examples  
-     * Decorators Repo: [https://github.com/tc39/proposal-decorators](https://github.com/tc39/proposal-decorators)   
-     * Temporal Repo: [https://github.com/tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)   
+    * Decorators Repo: [https://github.com/tc39/proposal-decorators](https://github.com/tc39/proposal-decorators)   
+    * Temporal Repo: [https://github.com/tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)   
 * Immersive Web CG/WG  
   * Proposals Repo: [https://github.com/immersive-web/proposals](https://github.com/immersive-web/proposals)  
   * Stage 0 Issues: [https://github.com/immersive-web/proposals/issues](https://github.com/immersive-web/proposals/issues)   
   * Examples  
-     * \<model\> Repo: [https://github.com/immersive-web/model-element](https://github.com/immersive-web/model-element)  
-     * Depth sensing Repo: [https://github.com/immersive-web/depth-sensing](https://github.com/immersive-web/depth-sensing)   
+    * \<model\> Repo: [https://github.com/immersive-web/model-element](https://github.com/immersive-web/model-element)  
+    * Depth sensing Repo: [https://github.com/immersive-web/depth-sensing](https://github.com/immersive-web/depth-sensing)   
 * WebAssembly  
   * Proposals Repo: [https://github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)  
   * Examples  
-     * Tail call Repo: [https://github.com/WebAssembly/tail-call](https://github.com/WebAssembly/tail-call)  
-     * GC Repo: [https://github.com/WebAssembly/gc](https://github.com/WebAssembly/gc)
+    * Tail call Repo: [https://github.com/WebAssembly/tail-call](https://github.com/WebAssembly/tail-call)  
+    * GC Repo: [https://github.com/WebAssembly/gc](https://github.com/WebAssembly/gc)
 
