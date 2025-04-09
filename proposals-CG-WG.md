@@ -43,9 +43,9 @@ The goal of Stage 2 is to refine the preferred solution into a detailed, cohesiv
   * What's needed from champions?
     * [ ] An [explainer](https://tag.w3.org/explainers/).
     * [ ] Documentation of alternatives and trade-offs considered.
-    * [ ] Optionally, a draft specification text (or detailed examples/code samples if needed for clarity).
+    * [ ] Optionally, a draft specification text (or detailed examples and/or code samples, if needed for clarity).
     * [ ] Early implementation experience, including prototypes or trials.
-    * [ ] Evidence of stakeholder (e.g. web developers) demand and use-case alignment.
+    * [ ] Evidence of stakeholder (e.g., web developers) demand and use-case alignment.
 
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus to adopt the proposal as the basis for their work.
