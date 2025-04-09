@@ -33,7 +33,7 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
     * [ ] An understanding of the Problem Space.
     * [ ] Optionally, alternatives under consideration.
   * What's asked of the **Community Group**?
-    * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on.
+    * [ ] Community Group consensus that the problem is worth spending the Community Group’s time working on.
     * [ ] A home for incubating the proposal. Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature (e.g., [example](https://github.com/fedidcg/LightweightFedCM)). 
 
 # Stage 2: Formalization
