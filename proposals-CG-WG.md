@@ -2,8 +2,8 @@
 
 Author: @samuelgoto
 Created: 2024-08-11
-Last update: 2024-11-26
-Status: under review
+Last update: 2025-04-29
+Status: final
 
 This is a proposal to break proposals into 5 stages of maturity, with clear guidelines and requirements to advance them:
 
@@ -38,19 +38,19 @@ The purpose of Stage 1 proposals is to explore the Solution Space and pick a pre
 
 # Stage 2: Formalization
 
-The goal of Stage 2 is to refine the preferred solution into a detailed, cohesive proposal that addresses known issues and integrates feedback from stakeholders. The proposal enters Stage 2 with a list of issues that block advancement to the next stage, and exits with all of the issues resolved. This stage focuses on preparing the proposal for Working Group review by creating a complete, formal draft.
+The goal of Stage 2 is to refine the preferred solution into a detailed, cohesive proposal that addresses known issues and integrates feedback from stakeholders. The Proposal enters Stage 2 with a list of blocking issues to advance to the next stage and exits with all of the issues resolved.  This stage focuses on preparing the proposal for Working Group review and creating a complete, formal [Draft Report](https://www.w3.org/community/about/process/#deliverables).
+
 
   * What's needed from champions?
     * [ ] An [explainer](https://tag.w3.org/explainers/).
     * [ ] Documentation of alternatives and trade-offs considered.
-    * [ ] Optionally, a draft specification text (or detailed examples and/or code samples, if needed for clarity).
     * [ ] Early implementation experience, including prototypes or trials.
     * [ ] Evidence of stakeholder (e.g., web developers) demand and use-case alignment.
 
   * What's asked of the **Working Group**?
     * [ ] Working Group consensus to adopt the proposal as the basis for their work.
     * [ ] A clear list of blocking issues to be addressed before advancing to Stage 3.
-    * [ ] A completed Working Draft for further iteration.
+    * [ ] A pull request for existing features (or a new Working Draft for new features) for further iteration.
     * [ ] Approval to dedicate the WG's time to Review spec PRs to merge the proposal into the [Working Draft](https://www.w3.org/policies/process/#RecsWD).
 
   
@@ -64,14 +64,14 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
   * What's needed from champions?
     * [ ] Proposal fully merged into the [Working Draft](https://www.w3.org/policies/process/#RecsWD).
     * [ ] Web Platform Tests are available.
-    * [ ] At least two independent implementers and no unresolved objections (where resolution may include an agreement not to address the issue).
+    * [ ] At least two independent implementers indicating intent to support and no unresolved objections (where resolution may include an agreement not to address the issue).
   * What's asked of the **Working Group**? 
     * [ ] Working Group consensus that the [Working Draft](https://www.w3.org/policies/process/#RecsWD) sufficiently resolves all of the issues raised at [Stage 2](#stage-2).
     * [ ] Working Group consensus to publish the [Working Draft](https://www.w3.org/policies/process/#RecsWD) as the Working Group's [Candidate Recommendation](https://www.w3.org/policies/process/#RecsCR).
   
 # Stage 4: Publication
 
- The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C). At this stage, the spec is merged and has finished editorial review. This editorial review could be lengthy, especially if the feature is large and/or the contributor is new to W3C process, but it will usually be short.
+The purpose of Stage 4 Proposals is to produce a [W3C Recommendation](https://www.w3.org/policies/process/#RecsW3C). At this stage, the spec is merged and has finished editor review. This editor review could be lengthy, especially if the feature is large and/or the contributor is new to W3C process, but it will usually be short.
  
   * What's needed from champions?
     * [ ] Documented [implementation experience](https://www.w3.org/policies/process/#implementation-experience) across multiple environments.
@@ -94,7 +94,7 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
      * \<model\> Repo: [https://github.com/immersive-web/model-element](https://github.com/immersive-web/model-element)  
      * Depth sensing Repo: [https://github.com/immersive-web/depth-sensing](https://github.com/immersive-web/depth-sensing)   
 * WebAssembly  
-  * Proposals Repo: [https://github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)  
+   * Proposals Repo: [https://github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)  
   * Examples  
      * Tail call Repo: [https://github.com/WebAssembly/tail-call](https://github.com/WebAssembly/tail-call)  
      * GC Repo: [https://github.com/WebAssembly/gc](https://github.com/WebAssembly/gc)
